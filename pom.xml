@@ -10,6 +10,21 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Ders_5</module>
+        <module>Ders_6</module>
+        <module>Ders_7</module>
+        <module>Ders_8</module>
+        <module>Ders_9</module>
+        <module>Ders_10</module>
+        <module>Ders_11</module>
+        <module>Ders_12</module>
+        <module>Ders_13</module>
+        <module>Ders_14</module>
+        <module>Ders_15</module>
+        <module>Ders_16</module>
+        <module>Ders_17</module>
+        <module>Ders_18</module>
+        <module>Ders_19</module>
+        <module>Ders_20</module>
     </modules>
 
     <properties>
