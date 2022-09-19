@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Ders_11" />
+        <module name="Ders_22" />
         <module name="Ders_10" />
+        <module name="Ders_21" />
         <module name="Ders_13" />
         <module name="Ders_12" />
+        <module name="Ders_23" />
         <module name="Ders_20" />
         <module name="Ders_9" />
         <module name="Ders_7" />
