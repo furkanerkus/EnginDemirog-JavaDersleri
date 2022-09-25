@@ -9,11 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Ders_5</module>
-        <module>Ders_6</module>
-        <module>Ders_7</module>
-        <module>Ders_8</module>
-        <module>Ders_9</module>
+        <module>Ders_05</module>
+        <module>Ders_06</module>
+        <module>Ders_07</module>
+        <module>Ders_08</module>
+        <module>Ders_09</module>
         <module>Ders_10</module>
         <module>Ders_11</module>
         <module>Ders_12</module>
@@ -28,6 +28,15 @@
         <module>Ders_21</module>
         <module>Ders_22</module>
         <module>Ders_23</module>
+        <module>Ders_24</module>
+        <module>Ders_25</module>
+        <module>Ders_26</module>
+        <module>Ders_27-29</module>
+        <module>Ders_30</module>
+        <module>Ders_31-34</module>
+        <module>Ders_35</module>
+        <module>Ders_36</module>
+        <module>Ders_37</module>
     </modules>
 
     <properties>
